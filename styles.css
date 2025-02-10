@@ -3,12 +3,13 @@
 }
 
 button {
-    font-size: 14px;
-    padding: 8px;
+    font-size: 16px;
+    padding: auto;
     background-color: #3882F6;
     color: white;
     border: 0px;
-    width: 108px;
+    width: 148px;
+    height: 40px;
     border-radius: 7px;
     font-weight: bold;
 }
@@ -139,4 +140,26 @@ a, .text {
     margin-top: 0;
     margin-bottom: 128px;
     margin-right: 5%;
+}
+
+.CTA {
+    display: flex;
+    background-color: #3882F6;
+    margin: 128px 15%;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 48px;
+    border-radius: 7px;
+}
+
+.CTA-header {
+    color: white;
+}
+
+.CTA-text {
+    color: white;
+}
+
+#with-border {
+    border: 2px solid white;
 }
