@@ -3,7 +3,7 @@
 }
 
 button {
-    font-size: 16px;
+    font-size: 16gitpx;
     padding: auto;
     background-color: #3882F6;
     color: white;
@@ -162,4 +162,12 @@ a, .text {
 
 #with-border {
     border: 2px solid white;
+}
+
+.footer {
+    background: #1F2937;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    padding: 16px;;
 }
