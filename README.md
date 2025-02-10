@@ -1,1 +1,1 @@
-# Landing-Page-TOP
+This is the "Landing page" project from The Odin Project's foundations course.
